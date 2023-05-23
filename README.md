@@ -1,4 +1,12 @@
 ### Hi there 👋
+<p align="center">
+  <h2 align="center">
+      This is Ruhang Ma
+  </h2>
+  <h3 align="center">
+      From University Of Illinois Urbana-Champaign
+  </h3>
+</p>
 
 <!--
 **ruhang97/ruhang97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
