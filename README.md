@@ -10,7 +10,7 @@
 </a> -->
 
 <div align="center">
-<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/ruhang-ma-a4085017a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
 I graduated from the **University of Illinois Urbana-Champaign**, where I will earn my **Master of Computer Science** degree. 
