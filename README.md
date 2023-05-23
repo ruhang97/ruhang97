@@ -4,14 +4,17 @@
   </h2>
 </p>
 
-&emsp;
+<!-- &emsp;
 <a href="https://www.linkedin.com/in/ruhang-ma-a4085017a/">
     ![Linkedin: Ruhang](https://img.shields.io/badge/-Ruhang-blue?style=flat-square&logo=Linkedin&logoColor=white)
-</a>
+</a> -->
+
+<div align="center">
+<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
 
 I graduated from the **University of Illinois Urbana-Champaign**, where I will earn my **Master of Computer Science** degree. 
 I also hold a **Bachelor of Science** in Electrical Engineering and Computer Science (**EECS**) from the **University of California, Berkeley**.
-
 
 -------
 ### Language & Tools
