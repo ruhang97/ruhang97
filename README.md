@@ -23,6 +23,12 @@ I attained my **Master of Computer Science** degree from the **University of Ill
 ![GO](https://img.shields.io/badge/-GO-00ADD8?&logo=Go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?&logo=Rust&logoColor=white)
 
+<div align="left">
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruhang97&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
+
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=white)
 ![Conda](https://img.shields.io/badge/-Conda-44A833?&logo=Anaconda&logoColor=white)
@@ -40,10 +46,7 @@ I attained my **Master of Computer Science** degree from the **University of Ill
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning the MERN tech stack.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
